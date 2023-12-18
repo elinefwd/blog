@@ -21,8 +21,6 @@ function App() {
         <Route path="/Overzicht:id" element={<Blogid/>} />
     </Routes>
 
-
-
     <div className="page-container">
             <img src={logo} alt="Company logo"/>
 
